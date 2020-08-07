@@ -22,13 +22,6 @@ body footer {
     clear: both;
 }
 
-.获奖专利 {
-    width: 70%;
-    margin-left: 15%;
-    margin-right: 15%;
-    background-color: #FFFFFF;
-}
-
 
 .获奖专利 p {
     font-weight: 600;
@@ -157,4 +150,8 @@ body img {
     text-decoration: none;
     margin-left: 1%;
     margin-right: 1%;
+}
+.获奖专利 {
+    padding-left: 15%;
+    padding-right: 15%;
 }
